@@ -1,2 +1,4 @@
 *.terraform/*
 *.tfstate*
+environments/production/.terraform*
+environments/testing/.terraform*
